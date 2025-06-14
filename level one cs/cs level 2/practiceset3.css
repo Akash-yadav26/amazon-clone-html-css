@@ -1,0 +1,37 @@
+/* div{
+    height: 100px;
+    width:100px;
+    background-color: green;
+    border-radius: 50%;
+} */
+
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+#nevbar{
+    height: 60px;
+    background-color: black;
+    text-transform: capitalize;
+    height: 60px;
+
+    
+}
+BUTTON{
+    background-color: orange;
+    text-transform: capitalize;
+    
+}
+#logo{
+    color: orangered;
+    font-size: 25px;
+
+}
+a{margin-right: 200px;
+text-decoration: none;
+}
+input{
+    color: black;
+}
+

@@ -1,0 +1,25 @@
+div{
+    height: 100px;
+    width:100px;
+    background-color: blue;
+    border-width: 2px;
+    border-style: solid;
+    border-color: brown;
+    text-align: right;
+    color: white;
+    
+}
+h1{
+    height: 100px;
+    width:200px;
+    background-color: red;
+    border-width: 5px;
+    border-style: solid;
+    border-color: greenyellow;
+    text-align: center;
+}
+p{
+    border: 5px dotted green;
+    background-color: black;
+    color: aliceblue;
+}

@@ -1,0 +1,29 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid red;
+    position: absolute;
+    left: 100px;
+top: 100px;
+/* animation-name:coloranimate;
+animation-duration: 0.25s;
+animation-iteration-count: infinite;
+animation-direction: alternate-reverse;
+border-radius: 70%; */
+animation:coloranimate 2s ease-in 0s infinite normal ;
+}
+@keyframes coloranimate{
+     0%{
+    background-color:aqua;
+left: 0px;
+}
+     50% { right: 100px;
+        background-color: blue;
+    } 
+      100%{
+        background-color: black;
+      }
+        }
+
+    

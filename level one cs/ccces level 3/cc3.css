@@ -1,0 +1,10 @@
+div{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+body{
+    background-image: url("bgcc3.jpg");
+     /* background-size: cover;    background-size: contain; */     background-size: auto;
+
+}

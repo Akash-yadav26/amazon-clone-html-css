@@ -1,0 +1,14 @@
+div{
+    height: 100px;
+    width: 100px;
+    border: 3px dotted red ;
+    background-color: burlywood;
+     border-radius: 3px;
+     padding-left: 20px;
+     padding-right: 20px;
+     padding-bottom: 20px;
+}
+#one{
+     border-radius: 50%;
+     padding:1px 2px 3px 4px;
+}

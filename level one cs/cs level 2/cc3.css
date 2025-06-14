@@ -1,0 +1,31 @@
+/* div{
+    background-color: black;
+    color: white;
+    display: inline;
+
+}
+button{
+    background-color: red;
+    display: inline;
+
+} */
+ div{
+    height: 100px;
+    width: 100px;
+    margin:25px;
+    padding: 25px;
+    /* display: inline; */ display: inline-block;
+    background-color: blue;
+ }
+ #devone{
+    /* display: none; spacee nahi bachti */ visibility: hidden;
+ }
+ #one{
+    background-color: rgba(255,50,0,0.5);
+ }
+ #twp{
+    background-color: rgba(0,255,0,0.3);
+ }
+ #three{
+    background-color: rgba(0,0,255,0.7);
+ }

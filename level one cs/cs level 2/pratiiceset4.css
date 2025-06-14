@@ -1,0 +1,30 @@
+#bar{
+    background-color: black;
+    height: 60px;
+    border: 2px solid yellow;
+}
+a{
+    margin-right: 200px;
+    text-transform: capitalize;
+    color: white;
+    text-decoration: none;
+}
+button{
+    background-color: orange;
+}
+#nevbar{
+   color: orange;
+}
+.contentarea{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+#content{
+    height: 400px;
+}
+#lastarea{
+    background-color: orange;
+}
+

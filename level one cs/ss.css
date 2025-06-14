@@ -1,0 +1,24 @@
+#box{
+    background-color: blue;
+}
+.heading{
+    color: red;
+}
+button{
+    background-color: green;
+}
+p{ text-align: left;
+
+}
+h4{
+    text-align: center;
+    text-decoration: red wavy underline;
+}
+h5{text-align: start;}
+pre{text-align: end;}
+#one{
+    font-family: Arial;
+}
+#two{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

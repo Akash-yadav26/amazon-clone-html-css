@@ -1,0 +1,32 @@
+h1{
+    color:green;
+}
+button{
+    color:blueviolet;
+    background-color:white;
+}
+body{
+    background-color:rgb(255,255,0);
+}
+p{
+    color:rgb(255,0,0);
+}
+
+h2{
+    color:rgb(255,0,255);
+  } 
+  h3{
+    color:#aaeeff;
+  }
+
+  *{color:red}
+
+  #headingone{
+    color:blue;
+  }
+  #headingtwo{
+    color:green;
+  }
+  .classone{
+    color:blueviolet;
+  }
